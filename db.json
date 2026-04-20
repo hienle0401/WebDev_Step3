@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 49.99,
+      "image": "/images/headphones.jpg",
+      "details": "Bluetooth 5.0, 30-hour battery life, foldable over-ear design."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "image": "/images/keyboard.jpg",
+      "details": "Tenkeyless layout, Cherry MX Brown switches, USB-C."
+    },
+    {
+      "id": 3,
+      "name": "Laptop Stand",
+      "price": 34.99,
+      "image": "/images/laptop-stand.jpg",
+      "details": "Adjustable aluminium stand, fits 11–17 inch laptops."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 129.99,
+      "image": "/images/smartwatch.jpg",
+      "details": "Heart rate monitor, GPS, 7-day battery, water resistant."
+    },
+    {
+      "id": 5,
+      "name": "HD Webcam",
+      "price": 59.99,
+      "image": "/images/webcam.jpg",
+      "details": "1080p 30fps, built-in noise-cancelling mic, plug and play."
+    },
+    {
+      "id": 6,
+      "name": "USB-C Hub",
+      "price": 29.99,
+      "image": "/images/usb-hub.jpg",
+      "details": "7-in-1 hub: HDMI, 3× USB-A, SD card, 100W PD passthrough."
+    },
+    {
+      "id": 7,
+      "name": "Backpack",
+      "price": 44.99,
+      "image": "/images/backpack.jpg",
+      "details": "30L capacity, padded 15-inch laptop compartment, waterproof base."
+    },
+    {
+      "id": 8,
+      "name": "LED Desk Lamp",
+      "price": 24.99,
+      "image": "/images/desk-lamp.jpg",
+      "details": "5 colour temperatures, 10 brightness levels, USB charging port."
+    }
+  ]
+}
