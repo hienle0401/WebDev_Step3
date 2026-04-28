@@ -19,7 +19,7 @@ export default function CartSidebar({ cart, onIncrement, onDecrement, onClear })
                   <span>{item.quantity}</span>
                   <button onClick={() => onIncrement(item.id)}>+</button>
                 </div>
-                <span>${(item.price * item.quantity).toFixed(2)}</span>
+                <span className="cart-item-price">${(item.price * item.quantity).toFixed(2)}</span>
               </li>
             ))}
           </ul>

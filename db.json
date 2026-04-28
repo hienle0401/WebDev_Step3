@@ -5,56 +5,112 @@
       "name": "Wireless Headphones",
       "price": 49.99,
       "image": "/images/headphones.jpg",
-      "details": "Bluetooth 5.0, 30-hour battery life, foldable over-ear design."
+      "details": "Bluetooth 5.0, 30-hour battery life, foldable over-ear design.",
+      "madeIn": "Japan",
+      "description": "Experience premium wireless audio with these over-ear headphones. Featuring Bluetooth 5.0 for a stable and fast connection, a 30-hour battery life for all-day listening, and a foldable design for easy storage and portability. Equipped with high-fidelity drivers that deliver rich bass and crystal-clear highs, these headphones are perfect for music lovers, remote workers, and commuters alike.",
+      "reviews": [
+        { "author": "Alex M.", "rating": 5, "comment": "Incredible sound quality and the battery lasts forever. Best headphones I've owned." },
+        { "author": "Sara K.", "rating": 4, "comment": "Very comfortable for long sessions. The foldable design is a great bonus for travel." },
+        { "author": "James T.", "rating": 5, "comment": "Bluetooth connection is rock solid. No dropouts at all. Highly recommend." }
+      ]
     },
     {
       "id": 2,
       "name": "Mechanical Keyboard",
       "price": 89.99,
       "image": "/images/keyboard.jpg",
-      "details": "Tenkeyless layout, Cherry MX Brown switches, USB-C."
+      "details": "Tenkeyless layout, Cherry MX Brown switches, USB-C.",
+      "madeIn": "Germany",
+      "description": "A tenkeyless mechanical keyboard built for typists and gamers who demand precision and durability. Cherry MX Brown switches provide a satisfying tactile bump without the loud click, making it ideal for both office and home use. The compact layout saves desk space while the USB-C connection ensures compatibility with modern devices. Built with a sturdy aluminium frame to last for years.",
+      "reviews": [
+        { "author": "Linda P.", "rating": 5, "comment": "The typing feel is absolutely satisfying. Cherry MX Browns are perfect for my workflow." },
+        { "author": "Tom R.", "rating": 4, "comment": "Solid build quality and the compact size is great for a cleaner desk setup." },
+        { "author": "Nina W.", "rating": 5, "comment": "USB-C is a huge plus. Works flawlessly with my laptop and desktop both." }
+      ]
     },
     {
       "id": 3,
       "name": "Laptop Stand",
       "price": 34.99,
       "image": "/images/laptop-stand.jpg",
-      "details": "Adjustable aluminium stand, fits 11–17 inch laptops."
+      "details": "Adjustable aluminium stand, fits 11–17 inch laptops.",
+      "madeIn": "China",
+      "description": "Elevate your laptop to eye level and improve your posture with this sleek aluminium stand. Compatible with laptops from 11 to 17 inches, it features multiple height and angle adjustment settings to suit your preferred working position. The non-slip pads protect your desk surface and keep your laptop secure. Lightweight and foldable, it is the ideal companion for working at home or on the go.",
+      "reviews": [
+        { "author": "Chris B.", "rating": 5, "comment": "My neck pain disappeared after just a week of using this. Totally worth it." },
+        { "author": "Amy L.", "rating": 4, "comment": "Sturdy and adjustable. Fits my 15-inch MacBook perfectly." },
+        { "author": "Ryan S.", "rating": 4, "comment": "Great value for money. Simple to set up and looks clean on my desk." }
+      ]
     },
     {
       "id": 4,
       "name": "Smartwatch",
       "price": 129.99,
       "image": "/images/smartwatch.jpg",
-      "details": "Heart rate monitor, GPS, 7-day battery, water resistant."
+      "details": "Heart rate monitor, GPS, 7-day battery, water resistant.",
+      "madeIn": "South Korea",
+      "description": "Stay connected and on top of your health with this feature-packed smartwatch. Tracks your heart rate continuously, monitors sleep quality, and includes built-in GPS for accurate outdoor activity tracking. With a 7-day battery life and water resistance up to 50 metres, it keeps up with your active lifestyle. Compatible with both iOS and Android, it displays notifications, calls, and messages directly on your wrist.",
+      "reviews": [
+        { "author": "Mia C.", "rating": 5, "comment": "The GPS accuracy is impressive. I use it for running every day and it never misses a beat." },
+        { "author": "Daniel F.", "rating": 5, "comment": "Seven days of battery on a smartwatch is unreal. I barely think about charging it." },
+        { "author": "Rachel H.", "rating": 4, "comment": "Comfortable to wear and the sleep tracking is surprisingly accurate." }
+      ]
     },
     {
       "id": 5,
       "name": "HD Webcam",
       "price": 59.99,
       "image": "/images/webcam.jpg",
-      "details": "1080p 30fps, built-in noise-cancelling mic, plug and play."
+      "details": "1080p 30fps, built-in noise-cancelling mic, plug and play.",
+      "madeIn": "Taiwan",
+      "description": "Look your best in every video call with this 1080p HD webcam. The built-in noise-cancelling microphone ensures your voice comes through clearly even in noisy environments. Plug-and-play compatibility means no drivers are required — simply connect via USB and you are ready to go. Includes a universal clip that fits monitors, laptops, and tripods. Perfect for remote work, streaming, and online learning.",
+      "reviews": [
+        { "author": "Ethan G.", "rating": 5, "comment": "Plug and play worked instantly on my Mac. The video quality is sharp and clear." },
+        { "author": "Olivia N.", "rating": 4, "comment": "The noise-cancelling mic is genuinely impressive. My colleagues noticed the difference immediately." },
+        { "author": "Mark D.", "rating": 4, "comment": "Great webcam for the price. The clip fits securely on my monitor." }
+      ]
     },
     {
       "id": 6,
       "name": "USB-C Hub",
       "price": 29.99,
       "image": "/images/usb-hub.jpg",
-      "details": "7-in-1 hub: HDMI, 3× USB-A, SD card, 100W PD passthrough."
+      "details": "7-in-1 hub: HDMI, 3× USB-A, SD card, 100W PD passthrough.",
+      "madeIn": "China",
+      "description": "Expand your laptop's connectivity with this versatile 7-in-1 USB-C hub. Supports 4K HDMI output for an external monitor, three USB-A 3.0 ports for peripherals, an SD card slot for photographers, and 100W Power Delivery passthrough so your laptop charges while you work. Compact and bus-powered, it requires no extra power adapter and fits neatly in your bag.",
+      "reviews": [
+        { "author": "Sophie M.", "rating": 5, "comment": "Finally I can connect everything to my MacBook at once. This hub is a game changer." },
+        { "author": "Ben K.", "rating": 4, "comment": "The HDMI output works great at 4K. Solid build for the price." },
+        { "author": "Grace L.", "rating": 5, "comment": "100W passthrough means I do not need a separate charger. Brilliant design." }
+      ]
     },
     {
       "id": 7,
       "name": "Backpack",
       "price": 44.99,
       "image": "/images/backpack.jpg",
-      "details": "30L capacity, padded 15-inch laptop compartment, waterproof base."
+      "details": "30L capacity, padded 15-inch laptop compartment, waterproof base.",
+      "madeIn": "Vietnam",
+      "description": "A functional and durable everyday backpack designed for students and professionals. The dedicated padded compartment safely fits laptops up to 15 inches, while the 30-litre capacity provides plenty of room for books, clothes, and accessories. The waterproof base keeps your belongings dry on rainy days. Multiple organiser pockets and breathable shoulder straps make this backpack as comfortable as it is practical.",
+      "reviews": [
+        { "author": "Jake O.", "rating": 5, "comment": "Fits my 15-inch laptop perfectly and still has room for all my other gear." },
+        { "author": "Hannah R.", "rating": 4, "comment": "The waterproof base saved my stuff during a rainy commute. Very happy with this purchase." },
+        { "author": "Leo V.", "rating": 5, "comment": "Comfortable straps and great organisation. I use this every single day." }
+      ]
     },
     {
       "id": 8,
       "name": "LED Desk Lamp",
       "price": 24.99,
       "image": "/images/desk-lamp.jpg",
-      "details": "5 colour temperatures, 10 brightness levels, USB charging port."
+      "details": "5 colour temperatures, 10 brightness levels, USB charging port.",
+      "madeIn": "China",
+      "description": "Illuminate your workspace perfectly with this modern LED desk lamp. Choose from 5 colour temperatures ranging from warm white to cool daylight, and adjust across 10 brightness levels to match any task or time of day. The built-in USB charging port lets you charge your phone or other devices without taking up an extra outlet. Flexible arm positioning and a sturdy base ensure the light goes exactly where you need it.",
+      "reviews": [
+        { "author": "Emma J.", "rating": 5, "comment": "The colour temperature options are fantastic. I switch to warm light in the evening and it really helps." },
+        { "author": "Noah P.", "rating": 4, "comment": "Solid lamp with great brightness range. The USB port is a handy bonus." },
+        { "author": "Lily A.", "rating": 5, "comment": "My eyes feel much less strained since I started using this. Worth every penny." }
+      ]
     }
   ]
 }
